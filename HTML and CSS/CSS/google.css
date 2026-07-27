@@ -25,10 +25,16 @@
     padding-right: 30px;
 }
 
+.btn-wrapper {
+    display: flex;
+    justify-content: center;
+
+}
+
 .search-btn{
     background: #dfe1e5;
-    /* margin-left: auto;
-    margin-right: auto; */
+    margin-left: 4px;
+    margin-right: 4px;
     margin-top: 20px;
     padding-top:8px;
     padding-bottom:8px;

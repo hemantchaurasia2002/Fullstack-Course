@@ -10,3 +10,19 @@ function add() {
     let result =  num1 + num2
     sumEl.textContent = "Sum: " + result
 }
+
+function sub() {
+    let result =  num1 - num2
+    sumEl.textContent = "Sum: " + result
+}
+
+function div() {
+    let result =  num1 / num2
+    sumEl.textContent = "Sum: " + result
+}
+
+function mul() {
+    let result =  num1 * num2
+    sumEl.textContent = "Sum: " + result
+}
+
